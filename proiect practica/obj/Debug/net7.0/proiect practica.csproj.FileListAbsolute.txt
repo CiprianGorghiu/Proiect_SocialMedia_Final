@@ -1,0 +1,77 @@
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\appsettings.json
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\proiect practica.exe
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\proiect practica.deps.json
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\proiect practica.runtimeconfig.json
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\proiect practica.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\proiect practica.pdb
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.csproj.AssemblyReference.cache
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.AssemblyInfoInputs.cache
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.AssemblyInfo.cs
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.csproj.CoreCompileInputs.cache
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\staticwebassets\msbuild.proiect practica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\staticwebassets\msbuild.build.proiect practica.props
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.proiect practica.props
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.proiect practica.props
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\scopedcss\bundle\proiect practica.styles.css
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.csproj.CopyComplete
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\refint\proiect practica.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.pdb
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\proiect practica.genruntimeconfig.cache
+C:\Users\solek\source\repos\proiect practica\proiect practica\obj\Debug\net7.0\ref\proiect practica.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Humanizer.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\solek\source\repos\proiect practica\proiect practica\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
